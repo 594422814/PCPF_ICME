@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Reliable Re-detection for long-term tracking
 Code for the method described in the paper **Reliable Re-detection for long-term tracking**
 
@@ -12,3 +13,6 @@ Our framework is based on the algorithm Staple. More detials will be introduced 
 
 
 
+=======
+# PCPF_ICME
+>>>>>>> 693d0e40f9be4a4cad4b6c6be39838b7a65c1bce
